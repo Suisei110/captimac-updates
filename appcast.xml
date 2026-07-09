@@ -5,6 +5,7 @@
     <link>https://github.com/Suisei110/captimac/releases</link>
     <description>Most recent CaptiMac releases with links to updates.</description>
     <language>en</language>
+    <lastBuildDate>Thu, 09 Jul 2026 23:45:00 +0000</lastBuildDate>
     <!--
       New releases are appended here by scripts/generate_appcast.sh in the main repo.
       Each item needs:
