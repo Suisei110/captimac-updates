@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>CaptiMac Updates</title>
+    <link>https://github.com/Suisei110/captimac/releases</link>
+    <description>Most recent CaptiMac releases with links to updates.</description>
+    <language>en</language>
+    <!--
+      New releases are appended here by scripts/generate_appcast.sh in the main repo.
+      Each item needs:
+        - title
+        - pubDate
+        - link (release notes)
+        - sparkle:version
+        - sparkle:minimumSystemVersion
+        - enclosure with url, sparkle:version, sparkle:edSignature, length, type
+    -->
+  </channel>
+</rss>
