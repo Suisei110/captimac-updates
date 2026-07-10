@@ -16,5 +16,19 @@
         - sparkle:minimumSystemVersion
         - enclosure with url, sparkle:version, sparkle:edSignature, length, type
     -->
+
+        <item>
+            <title>CaptiMac v2.3-beta.1</title>
+            <pubDate>Fri, 10 Jul 2026 15:12:31 +0000</pubDate>
+            <sparkle:version>2301</sparkle:version>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.1/CaptiMac-2.3-beta.1.dmg"
+                sparkle:version="2301"
+                sparkle:edSignature="bQ+rgXF8aiHDZYGE0RzuJIyzyp4fY5celAPL0d/7CmY6X253imuazuB8TavtNSK/2dKRc+NlZZ5VlCbCVpLpAg=="
+                length="7675422"
+                type="application/octet-stream" />
+        </item>
+
   </channel>
 </rss>
