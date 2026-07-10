@@ -30,5 +30,19 @@
                 type="application/octet-stream" />
         </item>
 
+
+        <item>
+            <title>CaptiMac v2.3-beta.2</title>
+            <pubDate>Fri, 10 Jul 2026 16:41:49 +0000</pubDate>
+            <sparkle:version>2302</sparkle:version>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.2/CaptiMac-2.3-beta.2.dmg"
+                sparkle:version="2302"
+                sparkle:edSignature="issCqY2wuqklmTwcsnW+E5eKdHjT8DX+5Ua7b3f9PN0Z9Aad9hmxm+ndZo72cS3tyzajAE99gI/CG9cWKaJ3Bw=="
+                length="7683496"
+                type="application/octet-stream" />
+        </item>
+
   </channel>
 </rss>
