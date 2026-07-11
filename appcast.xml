@@ -2,36 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>CaptiMac Updates</title>
-    <link>https://github.com/Suisei110/captimac-releases/releases</link>
-    <description>Most recent CaptiMac releases with links to updates.</description>
+    <link>https://github.com/Suisei110/captimac-app/releases</link>
+    <description>CaptiMac auto-update appcast feed</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jul 2026 17:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2026 18:15:00 +0000</lastBuildDate>
         <item>
             <title>CaptiMac v2.3-beta.3 (2304)</title>
-            <pubDate>Fri, 11 Jul 2026 17:55:00 +0000</pubDate>
+            <pubDate>Fri, 11 Jul 2026 18:15:00 +0000</pubDate>
             <sparkle:version>2304</sparkle:version>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h3>🆕 What's New</h3>
-                <ul>
-                    <li><strong>Apple Tips Onboarding</strong> — 9 interactive tips guide you through CaptiMac</li>
-                    <li><strong>Developer ID Distribution</strong> — works on any Mac, notarized by Apple</li>
-                    <li><strong>Multi-Provider Transcription</strong> — Groq + OpenAI + ElevenLabs</li>
-                </ul>
-                <h3>🔧 Improvements</h3>
-                <ul>
-                    <li>Ollama download with real-time progress + cancel</li>
-                    <li>Coverage audit: 97% accuracy for all languages</li>
-                    <li>Provider switch isolation — no more stale URLs</li>
-                </ul>
-                <h3>🐛 Bug Fixes</h3>
-                <ul>
-                    <li>CapCut MP3 export now works</li>
-                    <li>Fase 2 tips overlay animation fixed</li>
-                    <li>Sparkle update from public repo (no more 404)</li>
-                </ul>
-            ]]></description>
-            <enclosure url="https://github.com/Suisei110/captimac-releases/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2304" sparkle:edSignature="h/31jCpn8E28h7p9S85803NYavXzXq2MQtnQ6iSB1Lz/o2IaSuXTVADOErN6djBP3mUwcam/jNwKn/EaOC2PCA==" length="7698908" type="application/octet-stream" />
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2304" sparkle:edSignature="h/31jCpn8E28h7p9S85803NYavXzXq2MQtnQ6iSB1Lz/o2IaSuXTVADOErN6djBP3mUwcam/jNwKn/EaOC2PCA==" length="7698908" type="application/octet-stream" />
         </item>
   </channel>
 </rss>
