@@ -7,6 +7,13 @@
     <language>en</language>
     <lastBuildDate>Fri, 11 Jul 2026 18:15:00 +0000</lastBuildDate>
         <item>
+            <title>CaptiMac v2.3-beta.4 (2305)</title>
+            <pubDate>Fri, 11 Jul 2026 21:30:00 +0000</pubDate>
+            <sparkle:version>2305</sparkle:version>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.4/CaptiMac-2.3-beta.4.dmg" sparkle:version="2305" sparkle:edSignature="qvpfRj1SRtjKZwR+QAqAeMZwESUYqsWKOpZcSCXil6jBlQRxGGeq1FYCKb52cBkHgjLqZ78xjTjzH8+yXwx3Bg==" length="8440569" type="application/octet-stream" />
+        </item>
+        <item>
             <title>CaptiMac v2.3-beta.3 (2304)</title>
             <pubDate>Fri, 11 Jul 2026 18:15:00 +0000</pubDate>
             <sparkle:version>2304</sparkle:version>
