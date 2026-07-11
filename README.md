@@ -1,26 +1,29 @@
-# CaptiMac Updates Repository
+# CaptiMac Updates
 
-This repository hosts the Sparkle appcast and release metadata for direct-distribution builds of CaptiMac.
+Sparkle 2 appcast feed for CaptiMac — macOS UGC caption generator.
 
-## Live appcast
+## Live Feed
 
-- URL: `https://suisei110.github.io/captimac-updates/appcast.xml`
-- Used by `SUFeedURL` in CaptiMac's Info.plist.
+```
+https://suisei110.github.io/captimac-updates/appcast.xml
+```
 
-## How updates are published
+## Release Assets
 
-1. In the main CaptiMac repo, run:
-   ```bash
-   ./scripts/generate_appcast.sh \
-     --version 2.3.1 \
-     --dmg-url "https://github.com/Suisei110/captimac/releases/download/v2.3.1/CaptiMac-2.3.1.dmg" \
-     --private-key ~/Documents/captimac_keys/sparkle_private.pem
-   ```
-2. The script outputs a new `appcast.xml`.
-3. Copy that file to this repository and push to `main`.
-4. GitHub Pages will automatically serve the updated appcast.
+DMG files hosted on the public [captimac-releases](https://github.com/Suisei110/captimac-releases) repo.
 
-## Repository settings
+## How It Works
 
-- Source: GitHub Pages → Deploy from a branch → `main` → `/ (root)`.
-- No build step is needed; this repo only serves static XML.
+1. New DMG uploaded to `captimac-releases` via GitHub Releases
+2. `appcast.xml` in this repo updated with new `<enclosure>` URL + Sparkle Ed25519 signature
+3. GitHub Pages serves the updated feed instantly
+4. CaptiMac's Sparkle updater fetches the feed and downloads updates
+
+## Repository
+
+- **Static hosting** via GitHub Pages (branch `main`, root)
+- No build step required
+
+---
+
+© 2026 Randy Rakhman
