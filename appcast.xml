@@ -5,13 +5,49 @@
     <link>https://github.com/Suisei110/captimac/releases</link>
     <description>Most recent CaptiMac releases with links to updates.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jul 2026 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2026 16:00:00 +0000</lastBuildDate>
         <item>
             <title>CaptiMac v2.3-beta.3</title>
-            <pubDate>Fri, 11 Jul 2026 13:00:00 +0000</pubDate>
+            <pubDate>Fri, 11 Jul 2026 16:00:00 +0000</pubDate>
             <sparkle:version>2303</sparkle:version>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2303" sparkle:edSignature="h1tP+h1Rkglj6SHOUPP8cmmC+Avs97oVL873prdxPsMfOWASqzqa2GJ+IsHqTNCLBbPRfdgcJMIMxxHgcihhCw==" length="7724076" type="application/octet-stream" />
+            <description><![CDATA[
+                <h3>🆕 What's New</h3>
+                <ul>
+                    <li><strong>Apple Tips Onboarding</strong> — 9 interactive tips guide you through CaptiMac in 2 phases</li>
+                    <li><strong>Developer ID Distribution</strong> — works on any Mac, notarized by Apple</li>
+                    <li><strong>Multi-Provider Transcription</strong> — Groq + OpenAI + ElevenLabs in onboarding &amp; settings</li>
+                    <li><strong>Emoji Toggle Tip</strong> — now part of the guided tour</li>
+                </ul>
+                <h3>🔧 Improvements</h3>
+                <ul>
+                    <li>Ollama download with real-time progress + cancel</li>
+                    <li>Coverage audit: 97% accuracy for all languages (Unicode-aware)</li>
+                    <li>WhisperKit language code fix (Danish, German, etc.)</li>
+                    <li>Provider switch isolation — no more stale URLs</li>
+                    <li>LicenseManager warning fixed</li>
+                </ul>
+                <h3>🐛 Bug Fixes</h3>
+                <ul>
+                    <li>CapCut MP3 export now works (Joint Stereo + uppercase .MP3)</li>
+                    <li>Fase 2 tips overlay animation fixed</li>
+                    <li>Onboarding tips appear after onboarding, not during</li>
+                    <li>Release notes synced to current version</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2303" sparkle:edSignature="8u0K639lXnBIFS4BKZ2uz2pkxfMbfpmFPrzc4lRHe5iOZhLY04SoDOKoPB0sODc7xdguKOeDfsLFKmKz4TmOBw==" length="7725480" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>CaptiMac v2.3-beta.2</title>
+            <pubDate>Fri, 10 Jul 2026 16:41:49 +0000</pubDate>
+            <sparkle:version>2302</sparkle:version>
+            <enclosure url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.2/CaptiMac-2.3-beta.2.dmg" sparkle:version="2302" sparkle:edSignature="issCqY2wuqklmTwcsnW+E5eKdHjT8DX+5Ua7b3f9PN0Z9Aad9hmxm+ndZo72cS3tyzajAE99gI/CG9cWKaJ3Bw==" length="7683496" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>CaptiMac v2.3-beta.1</title>
+            <pubDate>Fri, 10 Jul 2026 15:12:31 +0000</pubDate>
+            <sparkle:version>2301</sparkle:version>
+            <enclosure url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.1/CaptiMac-2.3-beta.1.dmg" sparkle:version="2301" sparkle:edSignature="bQ+rgXF8aiHDZYGE0RzuJIyzyp4fY5celAPL0d/7CmY6X253imuazuB8TavtNSK/2dKRc+NlZZ5VlCbCVpLpAg==" length="7675422" type="application/octet-stream" />
         </item>
   </channel>
 </rss>
