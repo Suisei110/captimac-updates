@@ -11,14 +11,14 @@
             <pubDate>Fri, 11 Jul 2026 21:30:00 +0000</pubDate>
             <sparkle:version>2305</sparkle:version>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.4/CaptiMac-2.3-beta.4.dmg" sparkle:version="2305" sparkle:edSignature="gecUHMkVEhT+5RbAX2rsv9HN3hP8qYsL38j47xeS6Q+EGHZJ+kMrrG92sTg09kAKCE3+p5SIKQ8tGFWVzL5WAg==" length="5777372" type="application/octet-stream" />
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.4/CaptiMac-2.3-beta.4.dmg" sparkle:version="2305" sparkle:edSignature="tBThvycn/jgMWZg/ds1peUPL2SaLR8ToJy9/uoRuzjLlxwMdRzmnf3qSacT6AMspdamHw8Y0Z5OiObPDiSccDA==" length="5779368" type="application/octet-stream" />
         </item>
         <item>
             <title>CaptiMac v2.3-beta.3 (2304)</title>
             <pubDate>Fri, 11 Jul 2026 18:15:00 +0000</pubDate>
             <sparkle:version>2304</sparkle:version>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2304" sparkle:edSignature="h/31jCpn8E28h7p9S85803NYavXzXq2MQtnQ6iSB1Lz/o2IaSuXTVADOErN6djBP3mUwcam/jNwKn/EaOC2PCA==" length="7698908" type="application/octet-stream" />
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2304" sparkle:edSignature="tBThvycn/jgMWZg/ds1peUPL2SaLR8ToJy9/uoRuzjLlxwMdRzmnf3qSacT6AMspdamHw8Y0Z5OiObPDiSccDA==" length="5779368" type="application/octet-stream" />
         </item>
   </channel>
 </rss>
