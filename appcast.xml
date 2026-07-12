@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>CaptiMac Updates</title>
-    <link>https://github.com/Suisei110/captimac-app/releases</link>
+    <link>https://github.com/Suisei110/CaptiMac/releases</link>
     <description>CaptiMac auto-update appcast feed</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Jul 2026 18:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2026 01:02:00 +0000</lastBuildDate>
+        <item>
+            <title>CaptiMac v2.3-beta.5 (2306)</title>
+            <pubDate>Sun, 13 Jul 2026 01:02:00 +0000</pubDate>
+            <sparkle:version>2306</sparkle:version>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/CaptiMac/releases/download/v2.3-beta.5/CaptiMac-2.3-beta.5-arm64.dmg" sparkle:version="2306" sparkle:edSignature="H2JjlIHoqkKdUb+E0proqb1auIOLSlGoYW1JZXNoczngaoSjS6XZEOId7AneT3kIsktNTLK5Wzt9j9pImtBrCA==" length="5837486" type="application/octet-stream" />
+        </item>
         <item>
             <title>CaptiMac v2.3-beta.4 (2305)</title>
             <pubDate>Fri, 11 Jul 2026 21:30:00 +0000</pubDate>
