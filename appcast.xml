@@ -5,7 +5,24 @@
     <link>https://github.com/Suisei110/captimac-app/releases</link>
     <description>CaptiMac auto-update appcast feed</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 06:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2026 00:15:00 +0000</lastBuildDate>
+        
+        <item>
+            <title>CaptiMac v2.3-beta.5.3 (2309)</title>
+            <pubDate>Mon, 14 Jul 2026 00:15:00 +0000</pubDate>
+            <sparkle:version>2309</sparkle:version>
+            <sparkle:shortVersionString>2.3-beta.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.3/CaptiMac-2.3-beta.5.3-arm64.dmg" sparkle:version="2309" sparkle:shortVersionString="2.3-beta.5.3" sparkle:edSignature="kCbH4Rk87Sg2qaghfJcVhZJRumoi1ym7912F0XLlB+BpxA/SabeHtqqO50EtXZjSjOa8zCooPHuwFcfdQ9nkCQ==" length="5838248" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.5.3</h2>
+                <ul>
+                    <li>Redesigned What's New popup — native window with SF Symbol icons (no more hidden banner)</li>
+                    <li>Smarter update detection — popup appears on version and build number changes</li>
+                    <li>Fresh installations skip the popup until the next real update</li>
+                </ul>
+            ]]></description>
+        </item>
         
         <item>
             <title>CaptiMac v2.3-beta.5.2 (2308)</title>
@@ -28,35 +45,57 @@
         
         <item>
             <title>CaptiMac v2.3-beta.5.1 (2307)</title>
-            <pubDate>Mon, 13 Jul 2026 05:22:00 +0000</pubDate>
+            <pubDate>Sun, 13 Jul 2026 05:30:00 +0000</pubDate>
             <sparkle:version>2307</sparkle:version>
             <sparkle:shortVersionString>2.3-beta.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.1/CaptiMac-2.3-beta.5.1-arm64.dmg" sparkle:version="2307" sparkle:shortVersionString="2.3-beta.5.1" sparkle:edSignature="O/q8k3KpEqeYBiOvXaTcsL9ZgUzOMHUs35ceC7AFwHsCtfTM2xmmcJsAJ6UZhudVpTQX61hKp6Mm35Qb8EZADA==" length="5831815" type="application/octet-stream" />
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.1/CaptiMac-2.3-beta.5.1-arm64.dmg" sparkle:version="2307" sparkle:shortVersionString="2.3-beta.5.1" sparkle:edSignature="FJKLfphEC/HJ76DpO9pYy8ozTqVH96b6JdrOpL08zDLtKJgbxG8O+kPj3Q2hYjv+ozD/Bh4fnQ4FIP+BbxI+DQ==" length="5882936" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.5.1</h2>
+                <ul>
+                    <li>Native search field, redesigned toolbar, export menu, FCP Subtitle template</li>
+                </ul>
+            ]]></description>
         </item>
         
         <item>
             <title>CaptiMac v2.3-beta.5 (2306)</title>
-            <pubDate>Sun, 13 Jul 2026 02:22:00 +0000</pubDate>
+            <pubDate>Sun, 13 Jul 2026 05:00:00 +0000</pubDate>
             <sparkle:version>2306</sparkle:version>
+            <sparkle:shortVersionString>2.3-beta.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5/CaptiMac-2.3-beta.5-arm64.dmg" sparkle:version="2306" sparkle:edSignature="B0Emrfto8sTsJC1MaT/S4ISU3uVp+jJN3uZuXOn2g2J7zjQmQV7nVUJGXbSxkTJaFATkRqA39b3emPIywmizAQ==" length="5837448" type="application/octet-stream" />
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5/CaptiMac-2.3-beta.5-arm64.dmg" sparkle:version="2306" sparkle:shortVersionString="2.3-beta.5" sparkle:edSignature="c2eWHK3bByoY0HnE22u8/px9h4Y2/nePNIJgxArT1cUzX1CjYx9LUBUOMYqSSqVQMs7Jb4/J8KlJSLxVMeQcBQ==" length="5831707" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.5</h2>
+                <ul>
+                    <li>Smart empty state — 'Generate Captions' with smart routing based on transcript</li>
+                    <li>Title font size — 'Aa' popover + Cmd+/Cmd- with S/M/L presets that persist</li>
+                    <li>Transcript 20pt font for comfortable reading</li>
+                    <li>Find & Replace v2.1 — dual mode (Cmd+F search, Cmd+Shift+F replace) with English labels</li>
+                    <li>Tips overlay — faster startup (0.6s), updated phase 1 tips</li>
+                    <li>Home Dashboard polish — blur overlay fix, desaturated halves, project type badge</li>
+                    <li>Transcription polish — font 20pt, toolbar copy button, translation persist</li>
+                </ul>
+            ]]></description>
         </item>
         
         <item>
             <title>CaptiMac v2.3-beta.4 (2305)</title>
-            <pubDate>Fri, 11 Jul 2026 21:30:00 +0000</pubDate>
+            <pubDate>Sat, 12 Jul 2026 00:00:00 +0000</pubDate>
             <sparkle:version>2305</sparkle:version>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.4/CaptiMac-2.3-beta.4.dmg" sparkle:version="2305" sparkle:edSignature="tBThvycn/jgMWZg/ds1peUPL2SaLR8ToJy9/uoRuzjLlxwMdRzmnf3qSacT6AMspdamHw8Y0Z5OiObPDiSccDA==" length="5779368" type="application/octet-stream" />
+            <sparkle:shortVersionString>2.3-beta.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.4/CaptiMac-2.3-beta.4-arm64.dmg" sparkle:version="2305" sparkle:shortVersionString="2.3-beta.4" sparkle:edSignature="2fgmYp0sMW5amJbl8khdBPbtivvSYRCWE3kBmJElz0IpoD5x0+rCOBMMDqguyo1t/pZnCRdr5e80u+7T7S+sCg==" length="5800000" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.4</h2>
+                <ul>
+                    <li>Bidirectional mode switching — seamless Caption ↔ Transcription without re-transcribing</li>
+                    <li>Reduced transcription-caption performance lag — shared audio engine, cached waveforms</li>
+                    <li>Unified export — single context-aware menu with caption + transcript formats</li>
+                    <li>Transcription text — NSTextView for instant rendering</li>
+                    <li>Dual settings fix — single source of truth via SettingsViewModel</li>
+                </ul>
+            ]]></description>
         </item>
-        
-        <item>
-            <title>CaptiMac v2.3-beta.3 (2304)</title>
-            <pubDate>Fri, 11 Jul 2026 18:15:00 +0000</pubDate>
-            <sparkle:version>2304</sparkle:version>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.3/CaptiMac-2.3-beta.3.dmg" sparkle:version="2304" sparkle:edSignature="tBThvycn/jgMWZg/ds1peUPL2SaLR8ToJy9/uoRuzjLlxwMdRzmnf3qSacT6AMspdamHw8Y0Z5OiObPDiSccDA==" length="5779368" type="application/octet-stream" />
-        </item>
-  </channel>
+    </channel>
 </rss>
