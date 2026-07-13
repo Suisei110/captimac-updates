@@ -5,7 +5,25 @@
     <link>https://github.com/Suisei110/captimac-app/releases</link>
     <description>CaptiMac auto-update appcast feed</description>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Jul 2026 02:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 05:22:00 +0000</lastBuildDate>
+        <item>
+            <title>CaptiMac v2.3-beta.5.1 (2307)</title>
+            <pubDate>Mon, 13 Jul 2026 05:22:00 +0000</pubDate>
+            <sparkle:version>2307</sparkle:version>
+            <sparkle:shortVersionString>2.3-beta.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.1/CaptiMac-2.3-beta.5.1-arm64.dmg" sparkle:version="2307" sparkle:shortVersionString="2.3-beta.5.1" sparkle:edSignature="O/q8k3KpEqeYBiOvXaTcsL9ZgUzOMHUs35ceC7AFwHsCtfTM2xmmcJsAJ6UZhudVpTQX61hKp6Mm35Qb8EZADA==" length="5831815" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.5.1</h2>
+                <ul>
+                    <li>Native search field on the Home Dashboard — find projects by name, transcript, or caption text</li>
+                    <li>Redesigned toolbar with contextual Find and Export buttons</li>
+                    <li>New Export menu with format options: Final Cut Pro, Final Cut Pro Subtitle, DaVinci Resolve, Adobe Premiere Pro, and SRT</li>
+                    <li>Removed redundant burger menu and duplicate export button</li>
+                    <li>What's New page synced to current release</li>
+                </ul>
+            ]]></description>
+        </item>
         <item>
             <title>CaptiMac v2.3-beta.5 (2306)</title>
             <pubDate>Sun, 13 Jul 2026 02:22:00 +0000</pubDate>
