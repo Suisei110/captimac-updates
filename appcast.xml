@@ -5,7 +5,25 @@
     <link>https://github.com/Suisei110/captimac-app/releases</link>
     <description>CaptiMac auto-update appcast feed</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2026 07:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2026 15:45:00 +0000</lastBuildDate>
+        
+        <item>
+            <title>CaptiMac v2.3-beta.5.7 (2313)</title>
+            <pubDate>Mon, 14 Jul 2026 15:45:00 +0000</pubDate>
+            <sparkle:version>2313</sparkle:version>
+            <sparkle:shortVersionString>2.3-beta.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.7/CaptiMac-2.3-beta.5.7.dmg" sparkle:version="2313" sparkle:shortVersionString="2.3-beta.5.7" sparkle:edSignature="nNVIeP1eSY+uZUMNVvOdcZw//IyP/fprYbxWHTZvrY4dLC0p7jHYSkalrJw5MMKkUgF+hRSZ1i9CV8CU2bbRBw==" length="9419570" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.5.7</h2>
+                <ul>
+                    <li>Glass-Unified Language Pickers — continuous glass surface, no more bubble-inside-bubble</li>
+                    <li>Find & Replace in Transcription Mode — toolbar search now works in both modes</li>
+                    <li>Transcription Search Highlights — native NSTextView search match highlighting</li>
+                    <li>Consistent Toolbar Layout — identical width and position across both modes</li>
+                </ul>
+            ]]></description>
+        </item>
         
         <item>
             <title>CaptiMac v2.3-beta.5.4 (2310)</title>
