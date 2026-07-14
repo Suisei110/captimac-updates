@@ -13,7 +13,7 @@
             <sparkle:version>2313</sparkle:version>
             <sparkle:shortVersionString>2.3-beta.5.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.7/CaptiMac-2.3-beta.5.7.dmg" sparkle:version="2313" sparkle:shortVersionString="2.3-beta.5.7" sparkle:edSignature="C9meYHiawYM0m6o5YRHfL6G2TmmevuazVUCwQzwnzeWDuf+e7nLu0J9GvrLyY8/pihT8LvOK+RrmnhKrMjJtAA==" length="10336319" type="application/octet-stream" />
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.7/CaptiMac-2.3-beta.5.7-installer.dmg" sparkle:version="2313" sparkle:shortVersionString="2.3-beta.5.7" sparkle:edSignature="hoYIDhdhVG9W7Am5fTZ8jDw3Ewi3Y/yT24oc6CdMILZPCEXXjPUnVrwMcHMj8JYHpFOSh5MGTyUIspg8FLC1CQ==" length="8456912" type="application/octet-stream" />
             <description><![CDATA[
                 <h2>What's New in v2.3-beta.5.7</h2>
                 <ul>
