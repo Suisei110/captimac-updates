@@ -5,7 +5,27 @@
     <link>https://github.com/Suisei110/captimac-app/releases</link>
     <description>CaptiMac auto-update appcast feed</description>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jul 2026 00:15:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2026 07:35:00 +0000</lastBuildDate>
+        
+        <item>
+            <title>CaptiMac v2.3-beta.5.4 (2310)</title>
+            <pubDate>Mon, 14 Jul 2026 07:35:00 +0000</pubDate>
+            <sparkle:version>2310</sparkle:version>
+            <sparkle:shortVersionString>2.3-beta.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.4/CaptiMac-2.3-beta.5.4.dmg" sparkle:version="2310" sparkle:shortVersionString="2.3-beta.5.4" sparkle:edSignature="m29La4is4UrAjOf7n7hE+f8VP6NsEA1x1L2/4xO0IQjfJtfEJMx4vEV8QyDT+Q4g77LweUpGWFek+prt6eP7Aw==" length="5857794" type="application/octet-stream" />
+            <description><![CDATA[
+                <h2>What's New in v2.3-beta.5.4</h2>
+                <ul>
+                    <li>Waveform Playhead Fix — Yellow playhead now renders reliably during playback; survives project switches</li>
+                    <li>Persistent Title Clips — Title clips and segments no longer disappear when switching projects or modes</li>
+                    <li>Smoother Loading States — Dynamic status labels + shimmer animation in workspace</li>
+                    <li>Glass Pill Polish — Transcript copy and emoji toggle buttons refined with gradient strokes</li>
+                    <li>Redesigned What's New popup — Native NSWindow with SF Symbol icons, hero blur</li>
+                    <li>Smarter update detection — version+build combined detection</li>
+                </ul>
+            ]]></description>
+        </item>
         
         <item>
             <title>CaptiMac v2.3-beta.5.3 (2309)</title>
