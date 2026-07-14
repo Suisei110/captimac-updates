@@ -117,5 +117,12 @@
                 </ul>
             ]]></description>
         </item>
+        <item>
+            <title>CaptiMac v2.3-beta.5.5 (2311)</title>
+            <pubDate>Tue, 14 Jul 2026 10:44:34 +0000</pubDate>
+            <sparkle:version>2311</sparkle:version>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.5/CaptiMac-2.3-beta.5.5.dmg" sparkle:version="2311" sparkle:edSignature="L6DPbVgUgLR2tZEDpfvlAer0Pgg8N+um2W76q97LbnfKiKfUPNN6J09QNOnzySuRdWSKOvsd/3YrRRlpq7tMCw==" length="5878920" type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
