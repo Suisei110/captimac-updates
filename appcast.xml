@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>CaptiMac Changelog</title>
-    <link>https://github.com/Suisei110/captimac/releases</link>
+    <link>https://github.com/Suisei110/captimac-app/releases</link>
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
       <title>Version 2.3-beta.5.8</title>
-      <pubDate>Wed, 15 Jul 2026 05:43:11 +0000</pubDate>
-      <link>https://github.com/Suisei110/captimac/releases/tag/v2.3-beta.5.8</link>
+      <pubDate>Wed, 15 Jul 2026 06:23:32 +0000</pubDate>
+      <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.8</link>
       <sparkle:version>2314</sparkle:version>
       <sparkle:shortVersionString>2.3-beta.5.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Suisei110/captimac/releases/download/v2.3-beta.5.8/CaptiMac-2.3-beta.5.8.dmg"
+        url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.8/CaptiMac-2.3-beta.5.8.dmg"
         sparkle:version="2314"
         sparkle:shortVersionString="2.3-beta.5.8"
         sparkle:edSignature="Dzy8QB8WoSSdx4Hycc5XmpgIihwLRQdEowx8YuiGxn2L95ZmS/ryfUWv8esrAUTEAzEbtXLdjlBpzlgSU04pBA=="
