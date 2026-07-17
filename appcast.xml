@@ -6,6 +6,21 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
     <item>
+      <title>Version 2.3-beta.5.10</title>
+      <pubDate>Fri, 17 Jul 2026 09:55:00 +0000</pubDate>
+      <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.10</link>
+      <sparkle:version>2317</sparkle:version>
+      <sparkle:shortVersionString>2.3-beta.5.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.10/CaptiMac-2.3-beta.5.10.dmg"
+        sparkle:version="2317"
+        sparkle:shortVersionString="2.3-beta.5.10"
+        sparkle:edSignature="uU40H63hreCZedr3WlPPXW+B5wZnpnhWO2+XI7sZC8/l4KqrtDULoOm2wi621YRkPGXkgA4LY0fxT+U4yBxHBg=="
+        length="5958384"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.3-beta.5.9</title>
       <pubDate>Wed, 15 Jul 2026 07:48:21 +0000</pubDate>
       <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.9</link>
