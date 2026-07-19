@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
+    <item>
+      <title>Version 2.3-beta.5.14</title>
+      <pubDate>Sun, 19 Jul 2026 12:59:43 +0000</pubDate>
+      <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.14</link>
+      <sparkle:version>2321</sparkle:version>
+      <sparkle:shortVersionString>2.3-beta.5.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.14/CaptiMac-2.3-beta.5.14.dmg"
+        sparkle:edSignature="lVBTP5D09kBvvrO7v2J3eQFZQmvxxsTSnVBDpt3IS0c3W88wPpHauo8XWBovwG0ztmPQ67YBPIsZvC/35IBzDw=="
+        length="6104999"
+        type="application/octet-stream" />
+    </item>
+
     <title>CaptiMac Changelog</title>
     <link>https://github.com/Suisei110/captimac-app/releases</link>
     <description>Most recent changes with links to updates.</description>
