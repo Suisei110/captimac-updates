@@ -2,6 +2,15 @@
 <rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 2.3-beta.5.18</title>
+      <pubDate>Fri, 24 Jul 2026 15:48:48 +0000</pubDate>
+      <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.18</link>
+      <ns0:version>2325</ns0:version>
+      <ns0:shortVersionString>2.3-beta.5.18</ns0:shortVersionString>
+      <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
+      <enclosure url="https://github.com/Suisei110/captimac-app/releases/download/v2.3-beta.5.18/CaptiMac-2.3-beta.5.18.dmg" ns0:edSignature="fZm7b57keUXKq2ZgRyZKlxytj83eWMMV/SIr2arn8teWIP5szQfZ/NlBtEcMyOkZvQOLuMvFRg0XVSUA3NVtCA==" length="6206334" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.3-beta.5.17</title>
       <pubDate>Thu, 24 Jul 2026 12:00:00 +0000</pubDate>
       <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.17</link>
