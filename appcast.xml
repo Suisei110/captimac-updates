@@ -28,13 +28,6 @@
       <title>Version 2.3-beta.5.22</title>
       <pubDate>Sat, 26 Jul 2026 12:16:00 +0000</pubDate>
       <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.22</link>
-      <description><![CDATA[
-        <h2>What's New in 2.3-beta.5.22</h2>
-        <ul>
-          <li>Fixed: selection not clearing after section assignment</li>
-          <li>Fixed: title clips not persisting on reset, regenerate, and project switch</li>
-        </ul>
-      ]]></description>
       <ns0:version>2329</ns0:version>
       <ns0:shortVersionString>2.3-beta.5.22</ns0:shortVersionString>
       <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
@@ -45,14 +38,6 @@
       <title>Version 2.3-beta.5.21</title>
       <pubDate>Sat, 25 Jul 2026 02:55:00 +0000</pubDate>
       <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.21</link>
-      <description><![CDATA[
-        <h2>What's New in 2.3-beta.5.21</h2>
-        <ul>
-          <li>Fixed: captions no longer disappear when navigating back to dashboard</li>
-          <li>Fixed: regenerated captions now persist correctly</li>
-          <li>Sparkle auto-update checks enabled by default</li>
-        </ul>
-      ]]></description>
       <ns0:version>2328</ns0:version>
       <ns0:shortVersionString>2.3-beta.5.21</ns0:shortVersionString>
       <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
@@ -63,15 +48,6 @@
       <title>Version 2.3-beta.5.20</title>
       <pubDate>Fri, 25 Jul 2026 17:30:00 +0000</pubDate>
       <link>https://github.com/Suisei110/captimac-app/releases/tag/v2.3-beta.5.20</link>
-      <description><![CDATA[
-        <h2>What's New in 2.3-beta.5.20</h2>
-        <ul>
-          <li>New: Caption Translation — translate captions to 30+ languages via DeepL</li>
-          <li>New: Export translated captions with language suffix</li>
-          <li>DeepSeek model updated to v4 Pro</li>
-          <li>Fixed: provider reset after app update</li>
-        </ul>
-      ]]></description>
       <ns0:version>2327</ns0:version>
       <ns0:shortVersionString>2.3-beta.5.20</ns0:shortVersionString>
       <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
